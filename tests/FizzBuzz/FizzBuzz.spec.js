@@ -1,5 +1,5 @@
 import { expect } from 'chai';
-import FizzBuzz from '../src/main';
+import FizzBuzz from '../../src/FizzBuzz';
 
 describe('FizzBuzz', () => {
 
