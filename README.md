@@ -1,4 +1,4 @@
-# Solving dojos with TDD [![Build Status](https://travis-ci.com/Everton747/dojos.svg?branch=master)](https://travis-ci.com/Everton747/dojos)
+# Solving dojos with TDD [![Build Status](https://travis-ci.com/Everton747/dojos.svg?branch=master)](https://travis-ci.com/Everton747/dojos) [![Coverage Status](https://coveralls.io/repos/github/Everton747/dojos/badge.svg?branch=master)](https://coveralls.io/github/Everton747/dojos?branch=master)
 
 ## Getting Started
 
@@ -23,7 +23,7 @@ npm install
 ```
 
 ## Running the tests
-### 
+###
 For run tests:
 ```
 npm run test
